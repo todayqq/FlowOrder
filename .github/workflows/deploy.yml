@@ -1,0 +1,38 @@
+name: Build and Deploy GitBook
+
+on:
+  push:
+    branches:
+      - main  # 每次 push 到 main 分支时触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 拉取代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. 安装 Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      # 3. 安装 gitbook-cli
+      - name: Install GitBook CLI
+        run: |
+          npm install -g gitbook-cli
+          gitbook fetch latest
+
+      # 4. 构建静态 HTML
+      - name: Build GitBook
+        run: gitbook build
+
+      # 5. 部署到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_book
