@@ -32,13 +32,13 @@ layout:
 
 #### 购买美区 Apple ID 账户渠道
 
-1. 闲鱼
+1.闲鱼
 
 闲鱼搜索 “美去apple”，花1块钱购买一个美区ID账户
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-2. [https://mtcer.com/](https://mtcer.com/) 购买
+2.[https://mtcer.com/](https://mtcer.com/) 购买
 
 选择租用苹果账户，点击租用美国苹果账户，费用 1.5元
 
