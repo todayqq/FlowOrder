@@ -39,7 +39,8 @@ layout:
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 2. [https://mtcer.com/](https://mtcer.com/) 购买
-3. 选择租用苹果账户，点击租用美国苹果账户，费用 1.5元
+
+选择租用苹果账户，点击租用美国苹果账户，费用 1.5元
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
