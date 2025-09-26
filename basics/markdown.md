@@ -18,13 +18,15 @@ layout:
 
 # 账户注册
 
-币安注册链接：[https://www.maxweb.black/activity/referral-entry/CPA?ref=CPA\_00A8XDRB83](https://www.maxweb.black/activity/referral-entry/CPA?ref=CPA_00A8XDRB83)
+币安注册链接：[https://www.maxweb.academy/join?ref=KD1DLQUK](https://www.maxweb.academy/join?ref=KD1DLQUK)
 
-1. &#x20;**填写注册信息**
+1. **填写注册信息**
 
 在注册页面输入电子邮件地址，并设置包含大小写字母、数字和特殊字符的安全密码（8-20位）。
 
-2. &#x20;**完成验证码验证**
+注册邀请码：KD1DLQUK
+
+2. **完成验证码验证**
 
 输入验证码后，点击“提交”按钮进行下一步。
 
